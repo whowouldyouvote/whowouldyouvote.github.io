@@ -1,0 +1,15 @@
+{
+  "name": "Who Would You Vote For?",
+  "short_name": "Who Would You Vote",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "icons": [{
+    "src": "favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+  ,
+  "background_color": "#bcbcbc",
+  "theme_color": "#FFFFFF"
+}
